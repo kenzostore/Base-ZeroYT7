@@ -3,10 +3,10 @@
 //MAAF BASE NYA JELEK
 
 //FOLLOW ALL SOSIAL MEDIAML ME
-//YOUTUBE : Zero YT7
-//INSTAGRAM : @Zero_YT7
-//TIKTOK : @_zeroyt7
-//GITHUB : Zero-YT7
+//YOUTUBE : KenzStore
+//INSTAGRAM : @kenz_st0re
+//TIKTOK : Kepo
+//GITHUB : Kepo
 
 let { fetchJosn, kyun, fetchText } = require('./lib/fetcher')
 let { color, bgcolor } = require('./lib/color')
